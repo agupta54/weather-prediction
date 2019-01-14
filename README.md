@@ -22,4 +22,4 @@ A lot of discrepencies can arise in data. It is best to manually inspect it befo
 
 A cursory inspection of the data by just opening in a text editor gives us so many useful insights. 
 
-More details are presented in the ipython notebook. 
+More details are presented in the ipython notebook. Once we are done exploring the data and deciding what model to use for prediction in the ipython notebook we can deploy our model using buy_tickets.py. predict_weather.py and tools.py contains similar code as in the ipython notebook but in a more modular form for deployment. 
