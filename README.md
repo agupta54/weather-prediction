@@ -1,6 +1,6 @@
 # Weather Prediction
 
-In this project I try to build a weather prediction tool in python to predict if it rains in Fort Lauderdale. All data is collected from [here](https://climatecenter.fsu.edu/products-services/data). 
+In this project I try to build a weather prediction tool in python to predict if ihe weather is *good* to go on a holiday to Fort Lauderdale. All data is collected from [here](https://climatecenter.fsu.edu/products-services/data). 
 
 ## Data Inspection 
 
@@ -22,5 +22,4 @@ A lot of discrepencies can arise in data. It is best to manually inspect it befo
 
 A cursory inspection of the data by just opening in a text editor gives us so many useful insights. 
 
-
-
+More details are presented in the ipython notebook. 
