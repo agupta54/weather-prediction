@@ -22,12 +22,12 @@ A lot of discrepencies can arise in data. It is best to manually inspect it befo
 
 A cursory inspection of the data by just opening in a text editor gives us so many useful insights. 
 
-More details are presented in the ipython notebook. Once we are done exploring the data and deciding what model to use for prediction in the ipython notebook we can deploy our model using buy_tickets.py. predict_weather.py and tools.py contains similar code as in the ipython notebook but in a more modular form for deployment. Sample usage of the code is *python buy_tickets.py <year> <month> <day> <temperature>.
-'''
-> python buy_tickets.py 2013 8 23 92 
-> For year= 2013, month= 8, day= 23, temp= 92.0
-> predicted temperature is 90.1802339193452
-> Buy those tickets. 
-'''
+More details are presented in the ipython notebook. Once we are done exploring the data and deciding what model to use for prediction in the ipython notebook we can deploy our model using buy_tickets.py. predict_weather.py and tools.py contains similar code as in the ipython notebook but in a more modular form for deployment. Sample usage of the code is *python buy_tickets.py <year> <month> <day> <temperature>*.
 
+```python
+python buy_tickets.py 2013 8 23 92 
+For year= 2013, month= 8, day= 23, temp= 92.0
+predicted temperature is 90.1802339193452
+Buy those tickets.
+```
 
